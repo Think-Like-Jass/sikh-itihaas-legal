@@ -1,0 +1,30 @@
+{
+  "master_version": 1,
+  "app": {
+    "latest_version_code": 1,
+    "latest_version_name": "0.1.0",
+    "min_supported_version_code": 1,
+    "update_message": { "pa": "ਨਵਾਂ ਅੱਪਡੇਟ ਉਪਲਬਧ ਹੈ!" },
+    "update_url": "",
+    "force_update": false
+  },
+  "branding": {
+    "launcher_icon_url": "",
+    "launcher_icon_version": 1,
+    "theme_event": ""
+  },
+  "languages": {
+    "supported": ["pa"],
+    "default": "pa"
+  },
+  "content_manifest": [
+    { "file_key": "eras", "path": "content/eras.json", "version": 1 },
+    { "file_key": "era_pichhokar", "path": "content/nodes/era_pichhokar.json", "version": 1 }
+  ],
+  "announcement": {
+    "id": "",
+    "active": false,
+    "title": { "pa": "" },
+    "body": { "pa": "" }
+  }
+}
