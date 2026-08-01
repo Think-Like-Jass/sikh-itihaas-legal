@@ -1,6 +1,6 @@
 {
-  "master_version": 3,
-  "updated_at": "2026-08-01T20:00:00Z",
+  "master_version": 4,
+  "updated_at": "2026-08-01T21:30:00Z",
   "app": {
     "latest_version_code": 1,
     "latest_version_name": "0.1.0",
@@ -20,7 +20,8 @@
   },
   "content_manifest": [
     { "file_key": "eras", "path": "content/eras.json", "version": 1, "updated_at": "2026-08-01" },
-    { "file_key": "era_pichhokar", "path": "content/nodes/era_pichhokar.json", "version": 3, "updated_at": "2026-08-01T20:00:00Z" }
+    { "file_key": "era_pichhokar", "path": "content/nodes/era_pichhokar.json", "version": 3, "updated_at": "2026-08-01T20:00:00Z" },
+    { "file_key": "era_guru_kaal", "path": "content/nodes/era_guru_kaal.json", "version": 1, "updated_at": "2026-08-01T21:30:00Z" }
   ],
   "announcement": {
     "id": "",
