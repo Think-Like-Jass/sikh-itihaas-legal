@@ -1,5 +1,6 @@
 {
   "master_version": 1,
+  "updated_at": "2026-08-01",
   "app": {
     "latest_version_code": 1,
     "latest_version_name": "0.1.0",
@@ -18,8 +19,8 @@
     "default": "pa"
   },
   "content_manifest": [
-    { "file_key": "eras", "path": "content/eras.json", "version": 1 },
-    { "file_key": "era_pichhokar", "path": "content/nodes/era_pichhokar.json", "version": 1 }
+    { "file_key": "eras", "path": "content/eras.json", "version": 1, "updated_at": "2026-08-01" },
+    { "file_key": "era_pichhokar", "path": "content/nodes/era_pichhokar.json", "version": 1, "updated_at": "2026-08-01" }
   ],
   "announcement": {
     "id": "",
