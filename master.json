@@ -1,6 +1,6 @@
 {
-  "master_version": 21,
-  "updated_at": "2026-08-08T16:00:00Z",
+  "master_version": 22,
+  "updated_at": "2026-08-08T18:00:00Z",
   "app": {
     "latest_version_code": 1,
     "latest_version_name": "0.1.0",
@@ -62,8 +62,8 @@
     {
       "file_key": "era_ajoka_daur",
       "path": "content/nodes/era_ajoka_daur.json",
-      "version": 6,
-      "updated_at": "2026-08-08T14:00:00Z"
+      "version": 7,
+      "updated_at": "2026-08-08T18:00:00Z"
     }
   ],
   "announcement": {
