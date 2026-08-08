@@ -1,6 +1,6 @@
 {
   "file_key": "era_angrezi_raj",
-  "version": 14,
+  "version": 15,
   "era_id": "era_angrezi_raj",
   "nodes": [
     {
@@ -740,10 +740,109 @@
       ]
     },
     {
+      "node_id": "bhai_vir_singh",
+      "era_id": "era_angrezi_raj",
+      "node_type": "person",
+      "sort_order": 6,
+      "year": 1905,
+      "title": {
+        "pa": "ਭਾਈ ਵੀਰ ਸਿੰਘ"
+      },
+      "summary": {
+        "pa": "ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਸਾਹਿਤ ਦਾ ਪਿਤਾਮਾ — ਸਿੰਘ ਸਭਾ ਦੌਰ ਦਾ ਮਹਾਨ ਕਵੀ, ਨਾਵਲਕਾਰ ਤੇ ਵਿਦਵਾਨ।"
+      },
+      "blocks": [
+        {
+          "block_type": "heading",
+          "text": {
+            "pa": "ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਸਾਹਿਤ ਦਾ ਪਿਤਾਮਾ"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਭਾਈ ਵੀਰ ਸਿੰਘ ਦਾ ਜਨਮ ੫(5) ਦਸੰਬਰ ੧੮੭੨(1872) ਨੂੰ ਅੰਮ੍ਰਿਤਸਰ ਵਿਖੇ ਹੋਇਆ; ਪਿਤਾ ਡਾ. ਚਰਨ ਸਿੰਘ ਖ਼ੁਦ ਕਵੀ ਸਨ, ਤੇ ਗਿਆਨੀ ਹਜ਼ਾਰਾ ਸਿੰਘ ਤੋਂ ਉਨ੍ਹਾਂ ਨੇ ਵਿੱਦਿਆ ਲਈ। ਗੁਰਬਾਣੀ, ਸੰਸਕ੍ਰਿਤ, ਫ਼ਾਰਸੀ ਤੇ ਬ੍ਰਜ ਦੇ ਨਾਲ ਆਧੁਨਿਕ ਅੰਗਰੇਜ਼ੀ ਵਿੱਦਿਆ ਦੇ ਗਿਆਤਾ, ਉਹ ਸਿੰਘ ਸਭਾ ਦੌਰ ਦੀ ਧੁਰੀ ਬਣੇ।"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਉਨ੍ਹਾਂ ੧੮੯੪(1894) ਵਿੱਚ ‘ਖ਼ਾਲਸਾ ਟ੍ਰੈਕਟ ਸੁਸਾਇਟੀ’ ਤੇ ੧੮੯੯(1899) ਵਿੱਚ ਪੰਜਾਬੀ ਹਫ਼ਤਾਵਾਰ ‘ਖ਼ਾਲਸਾ ਸਮਾਚਾਰ’ ਸ਼ੁਰੂ ਕੀਤਾ ਤੇ ਪੰਜਾਬੀ ਨੂੰ ਨਵੀਆਂ ਸਾਹਿਤਕ ਬੁਲੰਦੀਆਂ ਤੱਕ ਪਹੁੰਚਾਇਆ।"
+          }
+        },
+        {
+          "block_type": "heading",
+          "text": {
+            "pa": "ਨਾਵਲ ਤੇ ਕਵਿਤਾ ਦਾ ਮੋਢੀ"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਉਹ ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਨਾਵਲ ਦੇ ਮੋਢੀ ਸਨ — ‘ਸੁੰਦਰੀ’ (ਪਹਿਲਾ ਪੰਜਾਬੀ ਨਾਵਲ ਮੰਨਿਆ ਜਾਂਦਾ), ‘ਬਿਜੈ ਸਿੰਘ’, ‘ਸਤਵੰਤ ਕੌਰ’ ਤੇ ‘ਬਾਬਾ ਨੌਧ ਸਿੰਘ’ — ਜਿਨ੍ਹਾਂ ਨੇ ਸਿੱਖ ਸੂਰਬੀਰਤਾ ਨੂੰ ਮੁੜ ਜਗਾਇਆ; ਤੇ ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਗੀਤ-ਕਾਵਿ ਤੇ ਮਹਾਂਕਾਵਿ ‘ਰਾਣਾ ਸੂਰਤ ਸਿੰਘ’ ਦੇ ਵੀ।"
+          }
+        },
+        {
+          "block_type": "heading",
+          "text": {
+            "pa": "ਗੁਰਬਾਣੀ ਤੇ ਇਤਿਹਾਸ ਦੀ ਸੇਵਾ"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਵਿਦਵਤਾ ਵਿੱਚ ਉਨ੍ਹਾਂ ਦੀ ਦੇਣ ਵੱਡੀ ਹੈ — ‘ਸੰਥਯਾ ਸ੍ਰੀ ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ’ (ਸੱਤ ਜਿਲਦਾਂ ਦੀ ਵਿਆਖਿਆ), ਭਾਈ ਸੰਤੋਖ ਸਿੰਘ ਦੇ ‘ਸੂਰਜ ਪ੍ਰਕਾਸ਼’ ਦੀ ਚੌਦਾਂ-ਜਿਲਦੀ ਟੀਕਾ-ਸੰਪਾਦਨਾ, ਤੇ ‘ਕਲਗੀਧਰ ਚਮਤਕਾਰ’ ਤੇ ‘ਗੁਰੂ ਨਾਨਕ ਚਮਤਕਾਰ’ (ਗੁਰੂ ਸਾਹਿਬਾਨ ਦੇ ਜੀਵਨ)।"
+          }
+        },
+        {
+          "block_type": "heading",
+          "text": {
+            "pa": "ਸਤਿਕਾਰ"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਉਨ੍ਹਾਂ ਨੂੰ ਸਤਿਕਾਰ ਨਾਲ ‘ਭਾਈ ਸਾਹਿਬ’ ਕਿਹਾ ਜਾਂਦਾ ਹੈ। ੧੯੫੫(1955) ਵਿੱਚ ਪੰਜਾਬੀ ਲਈ ਪਹਿਲਾ ਸਾਹਿਤ ਅਕਾਦਮੀ ਪੁਰਸਕਾਰ ਤੇ ੧੯੫੬(1956) ਵਿੱਚ ਪਦਮ ਭੂਸ਼ਣ ਮਿਲਿਆ; ਉਨ੍ਹਾਂ ਨੂੰ ‘ਪੰਜਾਬ ਦਾ ਛੇਵਾਂ ਦਰਿਆ’ ਆਖਿਆ ਗਿਆ। ੧੦(10) ਜੂਨ ੧੯੫੭(1957) ਨੂੰ ਉਨ੍ਹਾਂ ਦਾ ਦੇਹਾਂਤ ਹੋਇਆ।"
+          }
+        },
+        {
+          "block_type": "fact_card",
+          "text": {
+            "pa": "ਉਨ੍ਹਾਂ ਦਾ ‘ਸੁੰਦਰੀ’ (੧੮੯੮(1898)) ਪਹਿਲਾ ਪੰਜਾਬੀ ਨਾਵਲ ਮੰਨਿਆ ਜਾਂਦਾ ਹੈ।"
+          }
+        },
+        {
+          "block_type": "fact_card",
+          "text": {
+            "pa": "ਉਨ੍ਹਾਂ ‘ਖ਼ਾਲਸਾ ਸਮਾਚਾਰ’ (੧੮੯੯(1899)) ਤੇ ਖ਼ਾਲਸਾ ਟ੍ਰੈਕਟ ਸੁਸਾਇਟੀ ਚਲਾਈ।"
+          }
+        },
+        {
+          "block_type": "fact_card",
+          "text": {
+            "pa": "ਪੰਜਾਬੀ ਲਈ ਪਹਿਲਾ ਸਾਹਿਤ ਅਕਾਦਮੀ ਪੁਰਸਕਾਰ (੧੯੫੫(1955)); ‘ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਸਾਹਿਤ ਦਾ ਪਿਤਾਮਾ’।"
+          }
+        },
+        {
+          "block_type": "related_nodes",
+          "node_ids": [
+            "singh_sabha_lehar",
+            "bhai_santokh_singh",
+            "giani_ditt_singh"
+          ]
+        }
+      ],
+      "related_node_ids": [
+        "singh_sabha_lehar",
+        "bhai_santokh_singh"
+      ]
+    },
+    {
       "node_id": "saragarhi",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 6,
+      "sort_order": 7,
       "year": 1897,
       "title": {
         "pa": "ਸਾਰਾਗੜ੍ਹੀ ਦੀ ਲੜਾਈ"
@@ -829,7 +928,7 @@
       "node_id": "sant_attar_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 7,
+      "sort_order": 8,
       "year": 1902,
       "title": {
         "pa": "ਸੰਤ ਅਤਰ ਸਿੰਘ ਜੀ ਮਸਤੂਆਣਾ"
@@ -927,7 +1026,7 @@
       "node_id": "sardar_ajit_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 8,
+      "sort_order": 9,
       "year": 1907,
       "title": {
         "pa": "ਸਰਦਾਰ ਅਜੀਤ ਸਿੰਘ"
@@ -1032,7 +1131,7 @@
       "node_id": "gadar_lehar",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 9,
+      "sort_order": 10,
       "year": 1913,
       "title": {
         "pa": "ਗ਼ਦਰ ਲਹਿਰ"
@@ -1173,7 +1272,7 @@
       "node_id": "baba_gurdit_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 10,
+      "sort_order": 11,
       "year": 1914,
       "title": {
         "pa": "ਬਾਬਾ ਗੁਰਦਿੱਤ ਸਿੰਘ ਤੇ ਕਾਮਾਗਾਟਾ ਮਾਰੂ"
@@ -1284,7 +1383,7 @@
       "node_id": "kartar_singh_sarabha",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 11,
+      "sort_order": 12,
       "year": 1915,
       "title": {
         "pa": "ਸ਼ਹੀਦ ਕਰਤਾਰ ਸਿੰਘ ਸਰਾਭਾ"
@@ -1419,7 +1518,7 @@
       "node_id": "bhai_mewa_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 12,
+      "sort_order": 13,
       "year": 1915,
       "title": {
         "pa": "ਭਾਈ ਮੇਵਾ ਸਿੰਘ ਲੋਪੋਕੇ"
@@ -1536,7 +1635,7 @@
       "node_id": "bhai_sahib_randhir_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 13,
+      "sort_order": 14,
       "year": 1915,
       "title": {
         "pa": "ਭਾਈ ਸਾਹਿਬ ਰਣਧੀਰ ਸਿੰਘ"
@@ -1635,7 +1734,7 @@
       "node_id": "jallianwala_bagh",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 14,
+      "sort_order": 15,
       "year": 1919,
       "title": {
         "pa": "ਜਲ੍ਹਿਆਂਵਾਲਾ ਬਾਗ਼"
@@ -1770,7 +1869,7 @@
       "node_id": "gurdwara_sudhar_lehar",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 15,
+      "sort_order": 16,
       "year": 1920,
       "title": {
         "pa": "ਗੁਰਦੁਆਰਾ ਸੁਧਾਰ ਤੇ ਅਕਾਲੀ ਲਹਿਰ"
@@ -1959,7 +2058,7 @@
       "node_id": "saka_nankana_sahib",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 16,
+      "sort_order": 17,
       "year": 1921,
       "title": {
         "pa": "ਸਾਕਾ ਨਨਕਾਣਾ ਸਾਹਿਬ"
@@ -2094,7 +2193,7 @@
       "node_id": "babbar_akali_lehar",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 17,
+      "sort_order": 18,
       "year": 1922,
       "title": {
         "pa": "ਬੱਬਰ ਅਕਾਲੀ ਲਹਿਰ"
@@ -2211,7 +2310,7 @@
       "node_id": "sgpc",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 18,
+      "sort_order": 19,
       "year": 1925,
       "title": {
         "pa": "ਸ਼੍ਰੋਮਣੀ ਕਮੇਟੀ ਦੀ ਸਥਾਪਨਾ"
@@ -2352,7 +2451,7 @@
       "node_id": "teja_singh_samundri",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 19,
+      "sort_order": 20,
       "year": 1926,
       "title": {
         "pa": "ਸਰਦਾਰ ਤੇਜਾ ਸਿੰਘ ਸਮੁੰਦਰੀ"
@@ -2445,7 +2544,7 @@
       "node_id": "professor_sahib_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 20,
+      "sort_order": 21,
       "year": 1929,
       "title": {
         "pa": "ਪ੍ਰੋਫ਼ੈਸਰ ਸਾਹਿਬ ਸਿੰਘ"
@@ -2543,7 +2642,7 @@
       "node_id": "sardar_kapur_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 21,
+      "sort_order": 22,
       "year": 1959,
       "title": {
         "pa": "ਸਰਦਾਰ ਕਪੂਰ ਸਿੰਘ"
@@ -2641,7 +2740,7 @@
       "node_id": "master_tara_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 22,
+      "sort_order": 23,
       "year": 1930,
       "title": {
         "pa": "ਮਾਸਟਰ ਤਾਰਾ ਸਿੰਘ"
@@ -2740,7 +2839,7 @@
       "node_id": "bhagat_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 23,
+      "sort_order": 24,
       "year": 1931,
       "title": {
         "pa": "ਸ਼ਹੀਦ ਭਗਤ ਸਿੰਘ"
@@ -2875,7 +2974,7 @@
       "node_id": "sewa_singh_thikriwala",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 24,
+      "sort_order": 25,
       "year": 1935,
       "title": {
         "pa": "ਸਰਦਾਰ ਸੇਵਾ ਸਿੰਘ ਠੀਕਰੀਵਾਲਾ"
@@ -2967,7 +3066,7 @@
       "node_id": "udham_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 25,
+      "sort_order": 26,
       "year": 1940,
       "title": {
         "pa": "ਸ਼ਹੀਦ ਊਧਮ ਸਿੰਘ"
@@ -3102,7 +3201,7 @@
       "node_id": "vand_1947",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 26,
+      "sort_order": 27,
       "year": 1947,
       "title": {
         "pa": "੧੯੪੭(1947) ਦੀ ਵੰਡ"
