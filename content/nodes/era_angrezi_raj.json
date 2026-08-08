@@ -1,6 +1,6 @@
 {
   "file_key": "era_angrezi_raj",
-  "version": 8,
+  "version": 9,
   "era_id": "era_angrezi_raj",
   "nodes": [
     {
@@ -537,10 +537,102 @@
       ]
     },
     {
-      "node_id": "sant_attar_singh",
+      "node_id": "giani_ditt_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
       "sort_order": 4,
+      "year": 1886,
+      "title": {
+        "pa": "ਗਿਆਨੀ ਦਿੱਤ ਸਿੰਘ"
+      },
+      "summary": {
+        "pa": "ਸਿੰਘ ਸਭਾ ਲਹਿਰ ਦਾ ਥੰਮ੍ਹ, ਪੰਜਾਬੀ ਪੱਤਰਕਾਰੀ ਦਾ ਪਿਤਾਮਾ ਤੇ ਸਿੱਖੀ ਦੀ ਬਰਾਬਰੀ ਦੀ ਜਿਊਂਦੀ ਮਿਸਾਲ।"
+      },
+      "blocks": [
+        {
+          "block_type": "heading",
+          "text": {
+            "pa": "ਸਿੰਘ ਸਭਾ ਦਾ ਥੰਮ੍ਹ"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਗਿਆਨੀ ਦਿੱਤ ਸਿੰਘ ਦਾ ਜਨਮ ੨੧(21) ਅਪ੍ਰੈਲ ੧੮੫੦(1850) ਦੇ ਲਗਭਗ ਪਿੰਡ ਕਲੌਰ (ਫਤਿਹਗੜ੍ਹ ਸਾਹਿਬ) ਵਿਖੇ, ਇੱਕ ਅਖੌਤੀ ‘ਨੀਵੀਂ’ (ਰਵਿਦਾਸੀਆ) ਜਾਤ ਦੇ ਪਰਿਵਾਰ ਵਿੱਚ ਹੋਇਆ; ਪਹਿਲਾ ਨਾਂ ਦਿੱਤਾ ਰਾਮ ਸੀ। ਜਾਤ ਦੇ ਤਾਹਨੇ ਸਹਿ ਕੇ ਵੀ ਉਹ ਆਪਣੇ ਦੌਰ ਦੇ ਸਭ ਤੋਂ ਵੱਡੇ ਸਿੱਖ ਵਿਦਵਾਨਾਂ ਵਿੱਚੋਂ ਇੱਕ ਬਣੇ — ਸਿੱਖੀ ਦੀ ਬਰਾਬਰੀ ਦੀ ਜਿਊਂਦੀ ਗਵਾਹੀ।"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਮੁੱਢਲੇ ਗੁਲਾਬਦਾਸੀ ਤੇ ਆਰੀਆ ਸਮਾਜੀ ਦੌਰ ਪਿੱਛੋਂ, ਭਾਈ ਜਵਾਹਰ ਸਿੰਘ ਦੀ ਪ੍ਰੇਰਨਾ ਨਾਲ ਉਨ੍ਹਾਂ ਸਿੱਖੀ ਤੇ ਸਿੰਘ ਸਭਾ ਨੂੰ ਅਪਣਾਇਆ ਤੇ ਲਾਹੌਰ ਦੇ ਓਰੀਐਂਟਲ ਕਾਲਜ ਵਿੱਚ ਪ੍ਰੋਫ਼ੈਸਰ ਬਣੇ। ਉਹ ਲਾਹੌਰ ਸਿੰਘ ਸਭਾ ਦੇ ਮੋਹਰੀ ਆਗੂ ਤੇ ਪ੍ਰੋਫ਼ੈਸਰ ਗੁਰਮੁਖ ਸਿੰਘ ਦੇ ਨਿਕਟ ਸਾਥੀ ਸਨ।"
+          }
+        },
+        {
+          "block_type": "heading",
+          "text": {
+            "pa": "ਪੰਜਾਬੀ ਪੱਤਰਕਾਰੀ ਦਾ ਪਿਤਾਮਾ"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਗਿਆਨੀ ਜੀ ‘ਖ਼ਾਲਸਾ ਅਖ਼ਬਾਰ’ ਦੇ ਸੰਪਾਦਕ ਰਹੇ ਤੇ ਆਪਣੀ ਜ਼ੋਰਦਾਰ ਕਲਮ ਨਾਲ ਸਿੱਖੀ ਦੀ ਵੱਖਰੀ ਪਛਾਣ ਦੀ ਰਾਖੀ ਕੀਤੀ (ਖ਼ਾਸ ਕਰ ਆਰੀਆ ਸਮਾਜ ਦੇ ਹਮਲਿਆਂ ਵਿਰੁੱਧ)। ਉਨ੍ਹਾਂ ਨੂੰ ‘ਪੰਜਾਬੀ ਪੱਤਰਕਾਰੀ ਦਾ ਪਿਤਾਮਾ’ ਤੇ ਆਧੁਨਿਕ ਪੰਜਾਬੀ ਵਾਰਤਕ ਦਾ ਮੋਢੀ ਮੰਨਿਆ ਜਾਂਦਾ ਹੈ।"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਉਹ ਬੜੇ ਲਿਖਾਰੀ ਸਨ — ਲਗਭਗ ਪੰਜਾਹ ਤੋਂ ਵੱਧ ਪੁਸਤਕਾਂ ਤੇ ਟ੍ਰੈਕਟ (ਦੁਰਗਾ ਪ੍ਰਬੋਧ, ਪੰਥ ਪ੍ਰਬੋਧ, ਭਾਈ ਤਾਰੂ ਸਿੰਘ ਤੇ ਭਾਈ ਸੁਬੇਗ ਸਿੰਘ ਦੀਆਂ ਸ਼ਹੀਦੀ-ਵਾਰਤਾਵਾਂ ਆਦਿ) ਲਿਖੀਆਂ, ਤੇ ਖ਼ਾਲਸਾ ਕਾਲਜ ਅੰਮ੍ਰਿਤਸਰ ਦੀ ਸਥਾਪਨਾ ਵਿੱਚ ਵੀ ਹਿੱਸਾ ਪਾਇਆ।"
+          }
+        },
+        {
+          "block_type": "heading",
+          "text": {
+            "pa": "ਵਿਰਾਸਤ"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "੬(6) ਸਤੰਬਰ ੧੯੦੧(1901) ਨੂੰ ਲਾਹੌਰ ਵਿਖੇ ਉਨ੍ਹਾਂ ਦਾ ਦੇਹਾਂਤ ਹੋਇਆ। ਉਹ ਆਧੁਨਿਕ ਸਿੱਖ ਇਤਿਹਾਸ ਦੀਆਂ ਸਭ ਤੋਂ ਪ੍ਰਮੁੱਖ ਦਲਿਤ-ਮੂਲ ਸ਼ਖ਼ਸੀਅਤਾਂ ਵਿੱਚੋਂ ਇੱਕ ਹਨ — ਜਾਤ-ਪਾਤ ਵਿਰੁੱਧ ਸਿੱਖੀ ਦੇ ਬਰਾਬਰੀ ਦੇ ਆਦਰਸ਼ ਦਾ ਪ੍ਰਤੀਕ।"
+          }
+        },
+        {
+          "block_type": "fact_card",
+          "text": {
+            "pa": "ਉਹ ਲਾਹੌਰ ਸਿੰਘ ਸਭਾ ਦੇ ਮੋਹਰੀ ਆਗੂ ਤੇ ਪ੍ਰੋਫ਼ੈਸਰ ਗੁਰਮੁਖ ਸਿੰਘ ਦੇ ਨਿਕਟ ਸਾਥੀ ਸਨ।"
+          }
+        },
+        {
+          "block_type": "fact_card",
+          "text": {
+            "pa": "‘ਖ਼ਾਲਸਾ ਅਖ਼ਬਾਰ’ ਦੇ ਸੰਪਾਦਕ ਵਜੋਂ ਉਨ੍ਹਾਂ ਨੂੰ ਪੰਜਾਬੀ ਪੱਤਰਕਾਰੀ ਦਾ ਪਿਤਾਮਾ ਕਿਹਾ ਜਾਂਦਾ ਹੈ।"
+          }
+        },
+        {
+          "block_type": "fact_card",
+          "text": {
+            "pa": "ਜਨਮ ਸਾਲ ਬਾਰੇ ਸਰੋਤ ਵੱਖੋ-ਵੱਖ ਹਨ (੧੮੫੦(1850)/੧੮੫੨(1852)/੧੮੫੩(1853)); ਦੇਹਾਂਤ ੬(6) ਸਤੰਬਰ ੧੯੦੧(1901) ਸਭ ਥਾਈਂ ਇੱਕੋ ਹੈ।"
+          }
+        },
+        {
+          "block_type": "related_nodes",
+          "node_ids": [
+            "singh_sabha_lehar",
+            "professor_sahib_singh"
+          ]
+        }
+      ],
+      "related_node_ids": [
+        "singh_sabha_lehar",
+        "professor_sahib_singh"
+      ]
+    },
+    {
+      "node_id": "sant_attar_singh",
+      "era_id": "era_angrezi_raj",
+      "node_type": "person",
+      "sort_order": 5,
       "year": 1902,
       "title": {
         "pa": "ਸੰਤ ਅਤਰ ਸਿੰਘ ਜੀ ਮਸਤੂਆਣਾ"
@@ -638,7 +730,7 @@
       "node_id": "sardar_ajit_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 5,
+      "sort_order": 6,
       "year": 1907,
       "title": {
         "pa": "ਸਰਦਾਰ ਅਜੀਤ ਸਿੰਘ"
@@ -743,7 +835,7 @@
       "node_id": "gadar_lehar",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 6,
+      "sort_order": 7,
       "year": 1913,
       "title": {
         "pa": "ਗ਼ਦਰ ਲਹਿਰ"
@@ -878,7 +970,7 @@
       "node_id": "baba_gurdit_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 7,
+      "sort_order": 8,
       "year": 1914,
       "title": {
         "pa": "ਬਾਬਾ ਗੁਰਦਿੱਤ ਸਿੰਘ ਤੇ ਕਾਮਾਗਾਟਾ ਮਾਰੂ"
@@ -989,7 +1081,7 @@
       "node_id": "kartar_singh_sarabha",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 8,
+      "sort_order": 9,
       "year": 1915,
       "title": {
         "pa": "ਸ਼ਹੀਦ ਕਰਤਾਰ ਸਿੰਘ ਸਰਾਭਾ"
@@ -1124,7 +1216,7 @@
       "node_id": "bhai_mewa_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 9,
+      "sort_order": 10,
       "year": 1915,
       "title": {
         "pa": "ਭਾਈ ਮੇਵਾ ਸਿੰਘ ਲੋਪੋਕੇ"
@@ -1241,7 +1333,7 @@
       "node_id": "bhai_sahib_randhir_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 10,
+      "sort_order": 11,
       "year": 1915,
       "title": {
         "pa": "ਭਾਈ ਸਾਹਿਬ ਰਣਧੀਰ ਸਿੰਘ"
@@ -1340,7 +1432,7 @@
       "node_id": "jallianwala_bagh",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 11,
+      "sort_order": 12,
       "year": 1919,
       "title": {
         "pa": "ਜਲ੍ਹਿਆਂਵਾਲਾ ਬਾਗ਼"
@@ -1475,7 +1567,7 @@
       "node_id": "gurdwara_sudhar_lehar",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 12,
+      "sort_order": 13,
       "year": 1920,
       "title": {
         "pa": "ਗੁਰਦੁਆਰਾ ਸੁਧਾਰ ਤੇ ਅਕਾਲੀ ਲਹਿਰ"
@@ -1646,7 +1738,7 @@
       "node_id": "saka_nankana_sahib",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 13,
+      "sort_order": 14,
       "year": 1921,
       "title": {
         "pa": "ਸਾਕਾ ਨਨਕਾਣਾ ਸਾਹਿਬ"
@@ -1781,7 +1873,7 @@
       "node_id": "babbar_akali_lehar",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 14,
+      "sort_order": 15,
       "year": 1922,
       "title": {
         "pa": "ਬੱਬਰ ਅਕਾਲੀ ਲਹਿਰ"
@@ -1898,7 +1990,7 @@
       "node_id": "sgpc",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 15,
+      "sort_order": 16,
       "year": 1925,
       "title": {
         "pa": "ਸ਼੍ਰੋਮਣੀ ਕਮੇਟੀ ਦੀ ਸਥਾਪਨਾ"
@@ -2033,7 +2125,7 @@
       "node_id": "teja_singh_samundri",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 16,
+      "sort_order": 17,
       "year": 1926,
       "title": {
         "pa": "ਸਰਦਾਰ ਤੇਜਾ ਸਿੰਘ ਸਮੁੰਦਰੀ"
@@ -2126,7 +2218,7 @@
       "node_id": "professor_sahib_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 17,
+      "sort_order": 18,
       "year": 1929,
       "title": {
         "pa": "ਪ੍ਰੋਫ਼ੈਸਰ ਸਾਹਿਬ ਸਿੰਘ"
@@ -2224,7 +2316,7 @@
       "node_id": "sardar_kapur_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 18,
+      "sort_order": 19,
       "year": 1959,
       "title": {
         "pa": "ਸਰਦਾਰ ਕਪੂਰ ਸਿੰਘ"
@@ -2322,7 +2414,7 @@
       "node_id": "bhagat_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 19,
+      "sort_order": 20,
       "year": 1931,
       "title": {
         "pa": "ਸ਼ਹੀਦ ਭਗਤ ਸਿੰਘ"
@@ -2457,7 +2549,7 @@
       "node_id": "sewa_singh_thikriwala",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 20,
+      "sort_order": 21,
       "year": 1935,
       "title": {
         "pa": "ਸਰਦਾਰ ਸੇਵਾ ਸਿੰਘ ਠੀਕਰੀਵਾਲਾ"
@@ -2549,7 +2641,7 @@
       "node_id": "udham_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 21,
+      "sort_order": 22,
       "year": 1940,
       "title": {
         "pa": "ਸ਼ਹੀਦ ਊਧਮ ਸਿੰਘ"
@@ -2684,7 +2776,7 @@
       "node_id": "vand_1947",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 22,
+      "sort_order": 23,
       "year": 1947,
       "title": {
         "pa": "੧੯੪੭(1947) ਦੀ ਵੰਡ"
