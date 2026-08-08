@@ -1,6 +1,6 @@
 {
   "file_key": "era_angrezi_raj",
-  "version": 12,
+  "version": 13,
   "era_id": "era_angrezi_raj",
   "nodes": [
     {
@@ -734,10 +734,96 @@
       ]
     },
     {
+      "node_id": "saragarhi",
+      "era_id": "era_angrezi_raj",
+      "node_type": "event",
+      "sort_order": 6,
+      "year": 1897,
+      "title": {
+        "pa": "ਸਾਰਾਗੜ੍ਹੀ ਦੀ ਲੜਾਈ"
+      },
+      "summary": {
+        "pa": "੨੧(21) ਸਿੱਖ ਸੈਨਿਕਾਂ ਦੀ ਹਜ਼ਾਰਾਂ ਹਮਲਾਵਰਾਂ ਵਿਰੁੱਧ ਅੰਤ ਤੱਕ ਲੜੀ ਗਈ ਅਦੁੱਤੀ ਬਹਾਦਰੀ ਦੀ ਦਾਸਤਾਨ।"
+      },
+      "blocks": [
+        {
+          "block_type": "heading",
+          "text": {
+            "pa": "੨੧(21) ਸਿੰਘਾਂ ਦੀ ਅਦੁੱਤੀ ਬਹਾਦਰੀ"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "੧੨(12) ਸਤੰਬਰ ੧੮੯੭(1897) ਨੂੰ, ਸਮਾਣਾ ਦੀਆਂ ਪਹਾੜੀਆਂ (ਉੱਤਰ-ਪੱਛਮੀ ਸਰਹੱਦ) ਵਿੱਚ ਫ਼ੋਰਟ ਲਾਕਹਾਰਟ ਤੇ ਫ਼ੋਰਟ ਗੁਲਿਸਤਾਨ ਵਿਚਕਾਰਲੀ ਸਾਰਾਗੜ੍ਹੀ ਚੌਕੀ ਉੱਤੇ ੩੬(36)ਵੇਂ ਸਿੱਖ ਰੈਜੀਮੈਂਟ ਦੇ ੨੧(21) ਸੈਨਿਕ ਤਾਇਨਾਤ ਸਨ, ਜਿਨ੍ਹਾਂ ਦੀ ਅਗਵਾਈ ਹੌਲਦਾਰ ਈਸ਼ਰ ਸਿੰਘ ਕਰ ਰਹੇ ਸਨ।"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਲਗਭਗ ਦਸ ਹਜ਼ਾਰ ਅਫ਼ਗ਼ਾਨ (ਓਰਕਜ਼ਈ-ਅਫ਼ਰੀਦੀ) ਕਬਾਇਲੀਆਂ ਨੇ ਚੌਕੀ ਉੱਤੇ ਹਮਲਾ ਕਰ ਦਿੱਤਾ। ਆਤਮ-ਸਮਰਪਣ ਦੀ ਥਾਂ ੨੧(21) ਸਿੰਘਾਂ ਨੇ ਆਖ਼ਰੀ ਸਾਹ ਤੱਕ ਲੜਨਾ ਚੁਣਿਆ ਤੇ ਦੁਸ਼ਮਣ ਨੂੰ ਭਾਰੀ ਨੁਕਸਾਨ ਪਹੁੰਚਾਇਆ।"
+          }
+        },
+        {
+          "block_type": "heading",
+          "text": {
+            "pa": "ਹੈਲੀਓਗ੍ਰਾਫ਼ ਦੀ ਗਵਾਹੀ"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਸਿਪਾਹੀ ਗੁਰਮੁਖ ਸਿੰਘ ਨੇ ਹੈਲੀਓਗ੍ਰਾਫ਼ (ਸ਼ੀਸ਼ੇ ਨਾਲ ਸੰਦੇਸ਼) ਰਾਹੀਂ ਸਾਰੀ ਲੜਾਈ ਦਾ ਅੱਖੀਂ-ਡਿੱਠਾ ਹਾਲ ਫ਼ੋਰਟ ਲਾਕਹਾਰਟ ਨੂੰ ਦੱਸਿਆ; ਚੌਕੀ ਡਿੱਗਣ ਵੇਲੇ ਉਹ ਸਭ ਤੋਂ ਅਖ਼ੀਰ ਵਿੱਚ ਸ਼ਹੀਦ ਹੋਏ।"
+          }
+        },
+        {
+          "block_type": "heading",
+          "text": {
+            "pa": "ਸਤਿਕਾਰ"
+          }
+        },
+        {
+          "block_type": "paragraph",
+          "text": {
+            "pa": "ਸਾਰੇ ੨੧(21) ਸੈਨਿਕਾਂ ਨੂੰ ਮਰਨ ਉਪਰੰਤ ਉਸ ਵੇਲੇ ਦਾ ਸਭ ਤੋਂ ਵੱਡਾ ਬਹਾਦਰੀ ਸਨਮਾਨ ‘ਇੰਡੀਅਨ ਆਰਡਰ ਆਫ਼ ਮੈਰਿਟ’ ਦਿੱਤਾ ਗਿਆ। ਸਾਰਾਗੜ੍ਹੀ ਨੂੰ ਦੁਨੀਆ ਦੀਆਂ ਸਭ ਤੋਂ ਮਹਾਨ ‘ਆਖ਼ਰੀ ਲੜਾਈਆਂ’ ਵਿੱਚੋਂ ਗਿਣਿਆ ਜਾਂਦਾ ਹੈ, ਤੇ ੧੨(12) ਸਤੰਬਰ ‘ਸਾਰਾਗੜ੍ਹੀ ਦਿਵਸ’ ਵਜੋਂ ਮਨਾਇਆ ਜਾਂਦਾ ਹੈ।"
+          }
+        },
+        {
+          "block_type": "fact_card",
+          "text": {
+            "pa": "੨੧(21) ਸੈਨਿਕਾਂ ਨੇ ਲਗਭਗ ਦਸ ਹਜ਼ਾਰ ਹਮਲਾਵਰਾਂ ਵਿਰੁੱਧ ਆਖ਼ਰੀ ਸਾਹ ਤੱਕ ਲੜਾਈ ਕੀਤੀ (੧੨(12) ਸਤੰਬਰ ੧੮੯੭(1897))।"
+          }
+        },
+        {
+          "block_type": "fact_card",
+          "text": {
+            "pa": "ਸਾਰੇ ੨੧(21) ਨੂੰ ‘ਇੰਡੀਅਨ ਆਰਡਰ ਆਫ਼ ਮੈਰਿਟ’ ਨਾਲ ਸਨਮਾਨਿਆ ਗਿਆ।"
+          }
+        },
+        {
+          "block_type": "fact_card",
+          "text": {
+            "pa": "੧੨(12) ਸਤੰਬਰ ‘ਸਾਰਾਗੜ੍ਹੀ ਦਿਵਸ’ ਵਜੋਂ ਮਨਾਇਆ ਜਾਂਦਾ ਹੈ।"
+          }
+        },
+        {
+          "block_type": "related_nodes",
+          "node_ids": [
+            "hari_singh_nalwa",
+            "sikh_military_valour"
+          ]
+        }
+      ],
+      "related_node_ids": [
+        "hari_singh_nalwa",
+        "sikh_military_valour"
+      ]
+    },
+    {
       "node_id": "sant_attar_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 6,
+      "sort_order": 7,
       "year": 1902,
       "title": {
         "pa": "ਸੰਤ ਅਤਰ ਸਿੰਘ ਜੀ ਮਸਤੂਆਣਾ"
@@ -835,7 +921,7 @@
       "node_id": "sardar_ajit_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 7,
+      "sort_order": 8,
       "year": 1907,
       "title": {
         "pa": "ਸਰਦਾਰ ਅਜੀਤ ਸਿੰਘ"
@@ -940,7 +1026,7 @@
       "node_id": "gadar_lehar",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 8,
+      "sort_order": 9,
       "year": 1913,
       "title": {
         "pa": "ਗ਼ਦਰ ਲਹਿਰ"
@@ -1081,7 +1167,7 @@
       "node_id": "baba_gurdit_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 9,
+      "sort_order": 10,
       "year": 1914,
       "title": {
         "pa": "ਬਾਬਾ ਗੁਰਦਿੱਤ ਸਿੰਘ ਤੇ ਕਾਮਾਗਾਟਾ ਮਾਰੂ"
@@ -1192,7 +1278,7 @@
       "node_id": "kartar_singh_sarabha",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 10,
+      "sort_order": 11,
       "year": 1915,
       "title": {
         "pa": "ਸ਼ਹੀਦ ਕਰਤਾਰ ਸਿੰਘ ਸਰਾਭਾ"
@@ -1327,7 +1413,7 @@
       "node_id": "bhai_mewa_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 11,
+      "sort_order": 12,
       "year": 1915,
       "title": {
         "pa": "ਭਾਈ ਮੇਵਾ ਸਿੰਘ ਲੋਪੋਕੇ"
@@ -1444,7 +1530,7 @@
       "node_id": "bhai_sahib_randhir_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 12,
+      "sort_order": 13,
       "year": 1915,
       "title": {
         "pa": "ਭਾਈ ਸਾਹਿਬ ਰਣਧੀਰ ਸਿੰਘ"
@@ -1543,7 +1629,7 @@
       "node_id": "jallianwala_bagh",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 13,
+      "sort_order": 14,
       "year": 1919,
       "title": {
         "pa": "ਜਲ੍ਹਿਆਂਵਾਲਾ ਬਾਗ਼"
@@ -1678,7 +1764,7 @@
       "node_id": "gurdwara_sudhar_lehar",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 14,
+      "sort_order": 15,
       "year": 1920,
       "title": {
         "pa": "ਗੁਰਦੁਆਰਾ ਸੁਧਾਰ ਤੇ ਅਕਾਲੀ ਲਹਿਰ"
@@ -1855,7 +1941,7 @@
       "node_id": "saka_nankana_sahib",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 15,
+      "sort_order": 16,
       "year": 1921,
       "title": {
         "pa": "ਸਾਕਾ ਨਨਕਾਣਾ ਸਾਹਿਬ"
@@ -1990,7 +2076,7 @@
       "node_id": "babbar_akali_lehar",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 16,
+      "sort_order": 17,
       "year": 1922,
       "title": {
         "pa": "ਬੱਬਰ ਅਕਾਲੀ ਲਹਿਰ"
@@ -2107,7 +2193,7 @@
       "node_id": "sgpc",
       "era_id": "era_angrezi_raj",
       "node_type": "concept",
-      "sort_order": 17,
+      "sort_order": 18,
       "year": 1925,
       "title": {
         "pa": "ਸ਼੍ਰੋਮਣੀ ਕਮੇਟੀ ਦੀ ਸਥਾਪਨਾ"
@@ -2248,7 +2334,7 @@
       "node_id": "teja_singh_samundri",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 18,
+      "sort_order": 19,
       "year": 1926,
       "title": {
         "pa": "ਸਰਦਾਰ ਤੇਜਾ ਸਿੰਘ ਸਮੁੰਦਰੀ"
@@ -2341,7 +2427,7 @@
       "node_id": "professor_sahib_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 19,
+      "sort_order": 20,
       "year": 1929,
       "title": {
         "pa": "ਪ੍ਰੋਫ਼ੈਸਰ ਸਾਹਿਬ ਸਿੰਘ"
@@ -2439,7 +2525,7 @@
       "node_id": "sardar_kapur_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 20,
+      "sort_order": 21,
       "year": 1959,
       "title": {
         "pa": "ਸਰਦਾਰ ਕਪੂਰ ਸਿੰਘ"
@@ -2537,7 +2623,7 @@
       "node_id": "master_tara_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 21,
+      "sort_order": 22,
       "year": 1930,
       "title": {
         "pa": "ਮਾਸਟਰ ਤਾਰਾ ਸਿੰਘ"
@@ -2636,7 +2722,7 @@
       "node_id": "bhagat_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 22,
+      "sort_order": 23,
       "year": 1931,
       "title": {
         "pa": "ਸ਼ਹੀਦ ਭਗਤ ਸਿੰਘ"
@@ -2771,7 +2857,7 @@
       "node_id": "sewa_singh_thikriwala",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 23,
+      "sort_order": 24,
       "year": 1935,
       "title": {
         "pa": "ਸਰਦਾਰ ਸੇਵਾ ਸਿੰਘ ਠੀਕਰੀਵਾਲਾ"
@@ -2863,7 +2949,7 @@
       "node_id": "udham_singh",
       "era_id": "era_angrezi_raj",
       "node_type": "person",
-      "sort_order": 24,
+      "sort_order": 25,
       "year": 1940,
       "title": {
         "pa": "ਸ਼ਹੀਦ ਊਧਮ ਸਿੰਘ"
@@ -2998,7 +3084,7 @@
       "node_id": "vand_1947",
       "era_id": "era_angrezi_raj",
       "node_type": "event",
-      "sort_order": 25,
+      "sort_order": 26,
       "year": 1947,
       "title": {
         "pa": "੧੯੪੭(1947) ਦੀ ਵੰਡ"
