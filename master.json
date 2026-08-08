@@ -1,6 +1,6 @@
 {
-  "master_version": 13,
-  "updated_at": "2026-08-08T00:00:00Z",
+  "master_version": 14,
+  "updated_at": "2026-08-08T02:00:00Z",
   "app": {
     "latest_version_code": 1,
     "latest_version_name": "0.1.0",
@@ -38,14 +38,14 @@
     {
       "file_key": "era_guru_kaal",
       "path": "content/nodes/era_guru_kaal.json",
-      "version": 4,
-      "updated_at": "2026-08-08T00:00:00Z"
+      "version": 5,
+      "updated_at": "2026-08-08T02:00:00Z"
     },
     {
       "file_key": "era_sangharsh",
       "path": "content/nodes/era_sangharsh.json",
-      "version": 3,
-      "updated_at": "2026-08-08T00:00:00Z"
+      "version": 4,
+      "updated_at": "2026-08-08T02:00:00Z"
     },
     {
       "file_key": "era_sikh_raj",
@@ -56,8 +56,8 @@
     {
       "file_key": "era_angrezi_raj",
       "path": "content/nodes/era_angrezi_raj.json",
-      "version": 3,
-      "updated_at": "2026-08-08T00:00:00Z"
+      "version": 4,
+      "updated_at": "2026-08-08T02:00:00Z"
     },
     {
       "file_key": "era_ajoka_daur",
